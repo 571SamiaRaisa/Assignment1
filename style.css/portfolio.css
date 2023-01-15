@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+/*about header */
+.head{
+    
+    background-image:url('/images\banner\banner3.png');
+    background-repeat:no repeat;
+background-position:center;
+padding:150px 100px;
+
+text-align:center;
+}
+.banner{
+    margin-left:330px;
+    font-weight:bolder;
+    font-size:30px;
+
+
+}
+.head h5{
+    font-size:700px;
+}
+
+.btn{
+    border-radius:5px;
+    background-color:#FD6E0A;
+    color:#ffffff;
+    font-size:18px;
+    border:0;
+    padding:17px 30px;
+    height:60px;
+}
+/* about section */
+.sections{
+    margin-bottom:50px;
+    font-weight:700;
+    text-align:center;
+    margin:50px;
+}
+
+.section-title{
+    font-size:700;
+    font-weight:bolder;
+}
+
+.person{
+    height: 500px;
+}
+.section-description{
+    font-size:500;
+    color:rgba(188, 157, 143, 0.507);
+}
+.my-plans{
+    padding:130px 150px;
+
+}
+.plan-title{
+    margin-bottom:50px;
+    font-weight:1000;
+    font-size:35px;
+    text-align:center;
+}
+
+.skill-title{
+    margin-bottom:20px;
+    font-weight:700;
+    font-size:20px;
+    text-align:center;
+}
+
+.positive{
+    background-image:url('/images\gradient2.png/');
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 180px 80px;
+    text-align: center;
+}
+.btn{
+    border-radius: 5px;
+    background-color: #ffffff;
+    color:rgb(255, 38, 0);
+    font-weight: 700;
+    font-size: 18px;
+    border:0;
+    padding:17px 30px;
+    height:60px;
+    margin-right:330px;
+    margin-top: 20px;
+}
+
+/* about footer */
+.footer{
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 70px 200px;
+}
+.future{
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 30px;
+    padding: 18px 30px;
+    background-color: black
+}
+.input{
+    margin-bottom: 24px;
+    border: 1px solid orangered;
+    padding: 18px 30px;
+    border-radius: 5px;
+    width:300px;
+}
+
+.email{
+    margin-bottom: 20px;
+}
+.phone{
+    margin-bottom: 20px;
+}
+.person{
+    height: 500px;
+}
+.about-footer{
+    margin-right: 500px;
+    color: whitesmoke;
+}
+
+.footer-title{
+    margin-bottom: 70px;
+    font-weight:700;
+    font-size: 35px;
+    text-align: center;
+}
